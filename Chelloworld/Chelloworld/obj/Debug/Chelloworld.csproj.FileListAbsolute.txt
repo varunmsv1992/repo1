@@ -1,0 +1,7 @@
+C:\Users\vmaddula\source\repos\Chelloworld\Chelloworld\bin\Debug\Chelloworld.exe.config
+C:\Users\vmaddula\source\repos\Chelloworld\Chelloworld\bin\Debug\Chelloworld.exe
+C:\Users\vmaddula\source\repos\Chelloworld\Chelloworld\bin\Debug\Chelloworld.pdb
+C:\Users\vmaddula\source\repos\Chelloworld\Chelloworld\obj\Debug\Chelloworld.csprojResolveAssemblyReference.cache
+C:\Users\vmaddula\source\repos\Chelloworld\Chelloworld\obj\Debug\Chelloworld.csproj.CoreCompileInputs.cache
+C:\Users\vmaddula\source\repos\Chelloworld\Chelloworld\obj\Debug\Chelloworld.exe
+C:\Users\vmaddula\source\repos\Chelloworld\Chelloworld\obj\Debug\Chelloworld.pdb
